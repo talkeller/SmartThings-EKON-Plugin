@@ -15,8 +15,8 @@
 
 import groovy.transform.Field
 
-@Field final String AIRCONET_USERNAME = 'REPLACEME_USERNAME'
-@Field final String AIRCONET_PASSWORD = 'REPLACEME_PASSWORD'
+@Field final String AIRCONET_USERNAME = 'talkeller'
+@Field final String AIRCONET_PASSWORD = 'univertal'
 @Field final String BASE_URL = 'https://www.airconet.info/'
 
 @Field final Integer  MIN_TEMP = 16
